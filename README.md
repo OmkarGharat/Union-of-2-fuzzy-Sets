@@ -17,7 +17,7 @@ So ,
 
 # fuzzy set is the set of fuzzy values or values that are not specific.
 
-# Union of Fuzzy Set ? 
+# Union of Fuzzy Set
 
 Union of collection of fuzzy sets is the set of all fuzzy elements in the collection.
 
