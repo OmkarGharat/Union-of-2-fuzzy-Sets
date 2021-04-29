@@ -19,7 +19,7 @@ So ,
 
 # Union of Fuzzy Set
 
-Union of collection of fuzzy sets is the set of all fuzzy elements in the collection.
+The union of two fuzzy sets is defined such that the membership (y) value at any x value is the maximum of the membership values of the two fuzzy sets.
 
 
 
